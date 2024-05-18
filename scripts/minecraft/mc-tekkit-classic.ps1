@@ -1,0 +1,2 @@
+docker build --platform linux/arm64,linux/amd64 . -f docker/minecraft/mc-tekkit-classic.Dockerfile -t ghcr.io/wold0110/minecraft/mc-tekkit-classic
+docker push ghcr.io/wold0110/minecraft/mc-tekkit-classic

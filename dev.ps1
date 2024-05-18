@@ -1,0 +1,1 @@
+docker build . -f docker/minecraft/mc-forge.Dockerfile -t ghcr.io/wold0110/minecraft/mc-forge
